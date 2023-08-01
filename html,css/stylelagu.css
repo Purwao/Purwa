@@ -1,0 +1,26 @@
+h1{text-align: center;
+    
+color: rgb(16, 20, 15);
+text-align: center;
+font-style:oblique;
+border: 4px solid;
+padding: 7px 7px 7px 7px;
+background-image: linear-gradient(to top,rgb(27, 89, 27),green,green,green,rgb(27, 89, 27));}
+
+p{ 
+    font-size: large;
+   outline: solid black;
+   text-align: center;
+}
+
+body{margin: 20px;;}
+
+audio{width: 700px;
+    position: absolute left;
+    border: solid 3px ;
+        padding: 10px;
+            height: 30px;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+                    }

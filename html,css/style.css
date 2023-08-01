@@ -1,0 +1,65 @@
+.bordernama{
+    font-size: larger;
+    color: antiquewhite;
+    font-style: bold;
+    margin: 40px 40px 40px 40px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-top-left-radius: 700px;
+    border-bottom-right-radius: 700px;
+    border: solid black 2px;
+    background-image: linear-gradient(to bottom,#2e1300,#ac9513,#7d6c0c,#ac9513,#2e1300
+     ) ;
+}
+
+.border3{border: solid black 2px;      
+        padding: 10px 100px 10px 10px;}
+
+
+.border{
+    font-size: large;
+    border: solid black 2px;
+    background-image: linear-gradient(to bottom right,#ac9513,#2e1300);
+}
+
+body{
+    
+    padding: 10px;
+    margin: 10px;}
+.marginworld{
+    max-width: 1200px;
+    border: solid black;
+    
+}
+
+.width{
+    width: 200 px;
+}
+
+.landscape{
+    display: flex;
+   flex-direction: row;
+}
+
+.spcbtwn{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+
+div{text-align: center;}
+
+h1{ text-align: center;}
+
+a{ 
+    color: antiquewhite;
+}
+
+p{
+    padding: 10px;
+color: antiquewhite;}
+
+a :visited{
+    color: hsl(11, 89%, 25%);
+}

@@ -1,0 +1,31 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html{
+    background-image: linear-gradient(to bottom, hsl(297, 96%, 45%),rgb(245, 66, 140),hsl(297, 96%, 45%),rgb(162, 85, 210));
+}
+
+table{
+    background-color: antiquewhite;
+    border: solid black 4px;
+    border-radius:10%;
+}
+
+p{
+    background-color: antiquewhite;
+    background-size: auto;
+}
+
+h1{
+    background-color: antiquewhite;
+}
+
+label{
+    background-color: antiquewhite;
+}
+
+a{
+    background-color: antiquewhite;
+    border: 3px solid black;
+}
